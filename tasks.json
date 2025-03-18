@@ -6,5 +6,9 @@
     {
         "task": "read",
         "completed": true
+    },
+    {
+        "task": "go",
+        "completed": false
     }
 ]
