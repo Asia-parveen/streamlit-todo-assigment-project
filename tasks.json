@@ -1,14 +1,18 @@
 [
     {
-        "task": "shop",
+        "task": "cook",
         "completed": true
     },
     {
-        "task": "read",
+        "task": "play",
         "completed": true
     },
     {
-        "task": "go",
+        "task": "reading book",
         "completed": false
+    },
+    {
+        "task": "shopping",
+        "completed": true
     }
 ]
